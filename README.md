@@ -14,7 +14,7 @@ It integrates **machine learning-based price prediction**, a **real-time chatbot
 ##  Live Project  
 
  **Live Demo:** [https://realnestrealestate.wuaze.com](https://realnestrealestate.wuaze.com)  
- **GitHub Repository:** [Darshan9922/RealNest](https://github.com/Darshan9922/RealNest)
+ **GitHub Repository:** [Darshan9922/RealNest](https://github.com/nikhilmaurya1/realnest_realestate_website)
 
 ---
 
@@ -72,7 +72,7 @@ realnest-real-estate/
 To run this project locally:
 
 1️) Clone the repository
-git clone https://github.com/Darshan9922/realnest-real-estate.git
+git clone (https://github.com/nikhilmaurya1/realnest_realestate_website)
 
 2) Navigate into the project directory
 cd realnest-real-estate
